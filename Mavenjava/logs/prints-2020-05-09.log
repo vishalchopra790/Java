@@ -1,0 +1,10 @@
+00:17:16.518 [main] DEBUG alpha.Demo - I am deugging
+00:17:16.520 [main] INFO  alpha.Demo - We are the boss
+00:17:16.520 [main] ERROR alpha.Demo - Failure
+00:17:16.520 [main] FATAL alpha.Demo - fatal error
+00:18:22.379 [main] DEBUG alpha.Demo - I am deugging
+00:18:22.381 [main] INFO  alpha.Demo - We are the boss
+00:18:22.381 [main] ERROR alpha.Demo - Failure
+00:18:22.381 [main] FATAL alpha.Demo - fatal error
+00:24:41.120 [main] DEBUG alpha.Demo - Invoking the browser
+00:24:45.119 [main] INFO  alpha.Demo - Driver Invoked Successfully

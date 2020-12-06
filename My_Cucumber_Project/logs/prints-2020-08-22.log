@@ -1,0 +1,72 @@
+21:05:52.193 [main] INFO  com.company.step_definitions.Hook - Launching browser chrome-headless
+21:06:00.006 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/twitter.com/Seedstars/status/850015764425961472 - OK
+21:06:02.680 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/twitter.com/Seedstars/status/850015764425961472 - OK
+21:06:05.249 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/twitter.com/Seedstars/status/850015764425961472 - OK
+21:06:07.072 [main] ERROR com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/vacantes.undostres.com.mx/front-end/ - Not Found - 404
+21:06:09.421 [main] ERROR com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/vacantes.undostres.com.mx/front-end/ - Not Found - 404
+21:06:12.025 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/ - OK
+21:06:14.033 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/ - OK
+21:06:16.329 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/about_resp.php - OK
+21:06:18.343 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/faq_resp.php - OK
+21:06:20.544 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/contact_resp.php - OK
+21:06:21.240 [main] ERROR com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/vacantes.undostres.com.mx/diseno-grafico/ - Not Found - 404
+21:06:22.386 [main] ERROR com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/vacantes.undostres.com.mx/diseno-grafico/ - Not Found - 404
+21:06:24.321 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/contacto.undostres.com.mx/ - OK
+21:06:25.293 [main] ERROR com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/vacantes.undostres.com.mx/diseno-grafico/-  Not Found - 404
+21:06:27.432 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/ - OK
+21:06:28.663 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=celular - OK
+21:06:29.607 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/somos.undostres.com.mx/ - OK
+21:06:30.443 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/contacto.undostres.com.mx/ - OK
+21:06:31.202 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/contacto.undostres.com.mx/ - OK
+21:06:31.962 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/faq.undostres.com.mx/ - OK
+21:06:33.478 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/PrivacyPolicy.html - OK
+21:06:34.722 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/PrivacyPolicy.html - OK
+21:06:36.209 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/terms.html - OK
+21:06:37.759 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/terms.html - OK
+21:06:38.860 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/twitter.com/undostres_mx - OK
+21:06:41.377 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/www.facebook.com/undostresmx/ - OK
+21:06:45.067 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/www.instagram.com/undostres_mx/ - OK
+21:06:47.542 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=cine - OK
+21:06:49.077 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=cine - OK
+21:06:51.870 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=tag - OK
+21:06:55.624 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=luz - OK
+21:06:56.983 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=telefono - OK
+21:06:58.325 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=telefono - OK
+21:07:00.564 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=television - OK
+21:07:02.024 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=telefono - OK
+21:07:04.324 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=postpago - OK
+21:07:06.124 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=agua - OK
+21:07:08.526 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=gas - OK
+21:07:09.700 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=hipoteca - OK
+21:07:11.637 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=entertainment - OK
+21:07:13.006 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=transport - OK
+21:07:14.258 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=transport - OK
+21:07:15.880 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=credito - OK
+21:07:17.227 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=credito - OK
+21:07:18.774 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=giftcards - OK
+21:07:20.043 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=credito - OK
+21:07:21.890 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=membresias - OK
+21:07:23.384 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=membresias - OK
+21:07:24.606 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=vip - OK
+21:07:25.850 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=entertainment - OK
+21:07:27.090 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=creditline - OK
+21:07:28.351 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=entertainment - OK
+21:07:29.737 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=entertainment - OK
+21:07:31.687 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=cine&operator=cinepolis - OK
+21:07:32.936 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=cine&operator=cinemex - OK
+21:07:34.195 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=tag&operator=televia - OK
+21:07:35.380 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=tag&operator=pase - OK
+21:07:37.233 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=tag&operator=viapass - OK
+21:07:38.809 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=luz&operator=CFE - OK
+21:07:40.043 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=telefono&operator=Telmex - OK
+21:07:41.462 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/index.php?product_type=television&operator=Sky - OK
+21:07:42.344 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/somos.undostres.com.mx/ - OK
+21:07:43.043 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/contacto.undostres.com.mx/ - OK
+21:07:44.279 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/PrivacyPolicy.html - OK
+21:07:45.886 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/twitter.com/undostres_mx - OK
+21:07:47.241 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/www.facebook.com/undostresmx/ - OK
+21:07:51.649 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/www.instagram.com/undostres_mx/ - OK
+21:07:53.187 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/faq.undostres.com.mx/ - OK
+21:07:54.600 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/PrivacyPolicy.html - OK
+21:07:56.484 [main] INFO  com.company.utilities.JSUtil - https://contacto.undostres.com.mx/clkn/https/undostres.com.mx/terms.html - OK
+21:07:59.363 [main] INFO  com.company.step_definitions.Hook - browser closed

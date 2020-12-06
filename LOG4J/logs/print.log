@@ -1,0 +1,8 @@
+23:37:47.028 [main] DEBUG alpha.Demo - I am deugging
+23:37:47.046 [main] INFO  alpha.Demo - We are the boss
+23:37:47.046 [main] ERROR alpha.Demo - Failure
+23:37:47.046 [main] FATAL alpha.Demo - fatal error
+00:02:48.796 [main] DEBUG alpha.Demo - I am deugging
+00:02:48.800 [main] INFO  alpha.Demo - We are the boss
+00:02:48.800 [main] ERROR alpha.Demo - Failure
+00:02:48.800 [main] FATAL alpha.Demo - fatal error

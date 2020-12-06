@@ -1,0 +1,6 @@
+00:24:45.119 [main] DEBUG alpha.Demo - Hitting the facebook URL
+00:24:50.803 [main] INFO  alpha.Demo - Webpage opened Sucessfully
+00:27:11.469 [main] DEBUG alpha.Demo - Invoking the browser
+00:27:15.093 [main] INFO  alpha.Demo - Driver Invoked Successfully
+00:27:15.093 [main] DEBUG alpha.Demo - Hitting the facebook URL
+00:27:19.562 [main] INFO  alpha.Demo - Webpage opened Sucessfully

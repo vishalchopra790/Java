@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name= "Automatio Test">
+    <test name="Smoke Testcases">
+   
+      
+       <classes>
+       
+       <class name='testngFiles.demo'/>
+       <class name='testngFiles.Vegetable'/>
+         </classes>
+
+    
+    </test>
+    
+</suite>

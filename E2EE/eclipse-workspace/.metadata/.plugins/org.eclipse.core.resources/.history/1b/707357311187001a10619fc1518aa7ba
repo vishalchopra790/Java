@@ -1,0 +1,89 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.ProtocolHandshake;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.Assert;
+public class SpicejetCompl {
+
+	public static void main(String[] args) throws InterruptedException {
+		// TODO Auto-generated method stub
+    //invoke .exe file
+		System.setProperty("webdriver.chrome.driver","C:\\XL_Apps\\eclipse\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://www.spicejet.com");
+		driver.manage().window().maximize();
+		System.out.println(driver.getTitle());
+		
+		//Check the trip
+		//System.out.println(driver.findElement(By.id("Div1")).getAttribute("style"));
+	//	driver.findElement(By.id("ctl00_mainContent_rbtnl_Trip_1")).click();
+	//	System.out.println(driver.findElement(By.id("Div1")).getAttribute("style"));
+		if(driver.findElement(By.id("Div1")).getAttribute("style").contains("1"))
+		{
+			System.out.println("Is Enabled");
+			Assert.assertTrue(true);
+		}
+		else
+		{
+			Assert.assertFalse(false);
+		}
+		
+		
+		//Cpde for selectong origin and destination 
+	    driver.findElement(By.xpath(".//*[@id='ctl00_mainContent_ddl_originStation1_CTXT']")).click();	   	   
+        driver.findElement(By.cssSelector("a[value='DEL']")).click();
+        System.out.println(driver.findElement(By.xpath(".//*[@id='ctl00_mainContent_ddl_originStation1_CTXT']")).getAttribute("value")+"Souce stat");
+
+		//driver.findElement(By.id("ctl00_mainContent_ddl_originStation1_CTXT")).click();	
+		driver.findElement(By.xpath("//div[@id='glsctl00_mainContent_ddl_destinationStation1_CTNR'] //a[@value='MAA']")).click();
+		System.out.println(driver.findElement(By.id("ctl00_mainContent_ddl_destinationStation1_CTXT")).getAttribute("value"));
+		Thread.sleep(3000);
+		//Calendar
+		driver.findElement(By.cssSelector(".ui-state-default.ui-state-highlight.ui-state-active")).click();
+		if(driver.findElement(By.id("Div1")).getAttribute("style").contains("1"))
+		{
+			System.out.println("Is Enabled");
+			Assert.assertTrue(true);
+		}
+		else
+		{
+			Assert.assertFalse(false);
+		}
+		
+		
+		
+	//Code for no of passengers selected 
+		driver.findElement(By.cssSelector("#divpaxinfo")).click();
+		Select s=new Select(driver.findElement(By.id("ctl00_mainContent_ddl_Adult")));
+		System.out.println(driver.findElement(By.cssSelector("#divpaxinfo")).getText());
+		//s.selectByValue("4");
+		s.selectByVisibleText("5");
+		driver.findElement(By.cssSelector("#divpaxinfo")).click();		
+		System.out.println(driver.findElement(By.cssSelector("#divpaxinfo")).getText());
+        
+        
+        
+        //Code for selection of discount availed by user checkbox 
+		Assert.assertFalse(driver.findElement(By.cssSelector("input[id*='chk_friendsandfamily']")).isSelected());
+        System.out.println(driver.findElement(By.cssSelector("input[id*='chk_friendsandfamily']")).isSelected());
+        driver.findElement(By.cssSelector("input[id*='IndArm']")).click();
+        Assert.assertTrue(driver.findElement(By.cssSelector("input[id*='chk_friendsandfamily']")).isSelected());
+        System.out.println(driver.findElement(By.cssSelector("input[id*='chk_friendsandfamily']")).isSelected());
+        Assert.assertEquals(driver.findElements(By.cssSelector("input[type='checkbox']")).size(),6);
+        
+        System.out.println(driver.findElements(By.cssSelector("input[type='checkbox']")).size());
+        Thread.sleep(2000);
+        
+        driver.findElement(By.cssSelector("#ctl00_mainContent_btn_FindFlights")).click();
+        
+        driver.close();
+		
+		}
+
+		
+
+
+		}
+  
+

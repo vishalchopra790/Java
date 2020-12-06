@@ -1,0 +1,24 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.ProtocolHandshake;
+import org.openqa.selenium.support.ui.Select;
+public class Indigo {
+
+	public static void main(String[] args) throws InterruptedException {
+		// TODO Auto-generated method stub
+    //invoke .exe file
+		System.setProperty("webdriver.chrome.driver","C:\\XL_Apps\\eclipse\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://www.goindigo.in");
+		driver.findElement(By.name("passenger")).click();
+		System.out.println(driver.findElement(By.name("passenger")).getText());
+		Thread.sleep(1000L);
+		for(int i=1;i<5;i++)
+		{
+		driver.findElement(By.className("icon-plus")).click();
+		}
+		driver.findElement(By.xpath("//div[@class='passenger-done-blck']//button")).click();
+		System.out.println(driver.findElement(By.name("passenger")).getText());
+}
+}

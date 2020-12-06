@@ -1,0 +1,54 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 3, Errors: 0, Skipped: 5, Time elapsed: 311.709 s <<< FAILURE! - in TestSuite
+InvokeDriver(Academy.HomePage)  Time elapsed: 12.344 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+unknown error: Chrome failed to start: crashed
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files (x86)\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'R01-CE62302732', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0024A113+1548563]
+	Ordinal0 [0x001CDDA1+1039777]
+	Ordinal0 [0x0014E485+517253]
+	Ordinal0 [0x000DCB98+52120]
+	Ordinal0 [0x000FB797+178071]
+	Ordinal0 [0x000FB59D+177565]
+	Ordinal0 [0x000F95FB+169467]
+	Ordinal0 [0x000E160A+71178]
+	Ordinal0 [0x000E2690+75408]
+	Ordinal0 [0x000E2629+75305]
+	Ordinal0 [0x001E71B7+1143223]
+	GetHandleVerifier [0x002E2B46+507814]
+	GetHandleVerifier [0x002E2864+507076]
+	GetHandleVerifier [0x002E9F47+537511]
+	GetHandleVerifier [0x002E3402+510050]
+	Ordinal0 [0x001DF29C+1110684]
+	Ordinal0 [0x001E938B+1151883]
+	Ordinal0 [0x001E94F3+1152243]
+	Ordinal0 [0x001E83F5+1147893]
+	BaseThreadInitThunk [0x74428674+36]
+	RtlGetAppContainerNamedObjectPath [0x77A35EC7+311]
+	RtlGetAppContainerNamedObjectPath [0x77A35E97+263]
+	(No symbol) [0x00000000]
+
+	at Academy.HomePage.InvokeDriver(HomePage.java:23)
+
+validateAppTitle(Academy.validateTitle)  Time elapsed: 0.779 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURED COURSE] but found [FEATURED COURSES]
+	at Academy.validateTitle.validateAppTitle(validateTitle.java:36)
+
+initialize(Academy.validateNavigationBar)  Time elapsed: 170.517 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: 
+timeout
+  (Session info: headless chrome=79.0.3945.88)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'R01-CE62302732', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\X133477\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:64563}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: db48cc958aed51a6c1b27415fca18bb8
+	at Academy.validateNavigationBar.initialize(validateNavigationBar.java:24)
+

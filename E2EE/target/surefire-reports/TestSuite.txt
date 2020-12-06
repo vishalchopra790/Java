@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 5, Time elapsed: 3.886 s <<< FAILURE! - in TestSuite
+Academy.ValidationNavigationHeader.before  Time elapsed: 2.319 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Academy.ValidationNavigationHeader.before(ValidationNavigationHeader.java:38)
+
+Academy.base.before  Time elapsed: 2.321 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Academy.base.before(base.java:26)
+

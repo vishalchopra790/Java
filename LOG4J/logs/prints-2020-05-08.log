@@ -1,0 +1,10 @@
+23:36:44.455 [main] ERROR beta.Demo1 - Failure
+23:36:44.458 [main] FATAL beta.Demo1 - fatal error
+23:37:10.609 [main] DEBUG alpha.Demo - I am deugging
+23:37:10.612 [main] INFO  alpha.Demo - We are the boss
+23:37:10.613 [main] ERROR alpha.Demo - Failure
+23:37:10.613 [main] FATAL alpha.Demo - fatal error
+23:37:44.106 [main] DEBUG alpha.Demo - I am deugging
+23:37:44.109 [main] INFO  alpha.Demo - We are the boss
+23:37:44.109 [main] ERROR alpha.Demo - Failure
+23:37:44.110 [main] FATAL alpha.Demo - fatal error

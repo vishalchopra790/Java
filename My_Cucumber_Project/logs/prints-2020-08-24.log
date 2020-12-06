@@ -1,0 +1,2 @@
+20:12:00.473 [main] INFO  com.company.step_definitions.Hook - Launching browser chrome-headless
+20:13:15.612 [main] INFO  com.company.step_definitions.Hook - browser closed

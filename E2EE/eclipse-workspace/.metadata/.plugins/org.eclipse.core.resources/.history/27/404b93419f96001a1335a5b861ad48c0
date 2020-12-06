@@ -1,0 +1,30 @@
+package Academy;
+
+import java.io.IOException;
+
+import org.testng.Assert;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
+
+import pageObject.LandingPage;
+import pageObject.loginPF;
+import resources.Drivers;
+
+public class ValidationNavigationHeader extends Drivers {
+
+	@Test
+	public void basePage() throws IOException {
+		driver = drivers();
+		driver.get(prop.getProperty("url"));
+		LandingPage p = new LandingPage(driver);
+		try {
+
+			Assert.assertEquals(p.getTitle().getText(), "Featured Courses");
+			//Assert.assertTrue(true);
+
+		} catch (Exception E) {
+			System.out.println("Title not matched");
+		}
+		Assert.assertTrue(p.getNavigation().isDisplayed());
+	}
+}

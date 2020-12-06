@@ -1,0 +1,6 @@
+17:36:09.152 [main] INFO  com.crossover.e2e.UnDoTres - Webpage load succesfully
+17:36:16.824 [main] INFO  com.crossover.e2e.UnDoTres - Driver closed sucessfully
+17:44:41.495 [main] INFO  com.crossover.e2e.UnDoTres - Driver invoked Successfully
+17:44:51.429 [main] INFO  com.crossover.e2e.UnDoTres - Webpage load succesfully
+17:45:01.769 [main] INFO  com.crossover.e2e.UnDoTres - UnDosTres - Recargas en línea Telcel, Movistar, AT&T, Unefon, Virgin, Televia, Pase, Boletos de Cine, Pagos CFE
+17:47:14.283 [main] INFO  com.crossover.e2e.UnDoTres - Navigated to Payment webpage

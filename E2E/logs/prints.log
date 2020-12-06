@@ -1,0 +1,353 @@
+23:22:34.512 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+23:22:49.836 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+12:21:36.696 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+12:21:38.974 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+12:25:43.815 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+12:25:46.574 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+12:27:06.511 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+12:27:10.241 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+12:27:43.933 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+12:27:47.413 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+12:30:20.850 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+12:30:26.371 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+14:33:47.471 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+14:33:52.344 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+14:37:51.641 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+14:37:55.048 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+14:43:39.360 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+14:43:43.640 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+14:53:50.462 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+14:53:54.651 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+14:59:17.002 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+14:59:21.231 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:02:22.793 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:02:27.819 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:07:55.479 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:07:59.760 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:50:53.861 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:50:58.987 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:24:34.063 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:24:43.000 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:28:16.737 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:28:22.963 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:43:16.197 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:43:34.449 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+14:11:23.490 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+14:11:27.364 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+14:38:02.766 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+14:38:08.193 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:50:47.830 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:50:58.438 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+13:36:44.164 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+13:36:53.883 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+13:36:54.078 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+14:58:30.342 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+14:58:49.502 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+14:58:50.682 [main] INFO  Academy.ValidationNavigationHeader - Title not matched
+15:27:55.147 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:28:14.111 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:28:14.586 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+15:30:52.180 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:38:23.483 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:48:16.674 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:50:21.053 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:50:40.575 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:50:44.574 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+15:54:28.906 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:54:52.610 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:54:53.430 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:00:21.444 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:02:47.860 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:31:37.593 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:32:00.322 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:32:00.843 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+15:54:40.879 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:54:46.453 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:54:46.822 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+15:56:06.634 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:56:11.602 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:56:12.248 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+15:58:04.872 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:58:07.722 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:58:08.333 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:00:46.474 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:00:51.211 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:00:51.609 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:10:22.497 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:10:29.879 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:10:30.390 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:12:20.273 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:12:26.140 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:12:26.464 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:20:54.181 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:20:59.256 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:20:59.637 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:26:21.107 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:26:26.542 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:26:26.874 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:32:06.741 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:32:11.882 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:32:12.257 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:39:14.389 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:39:18.698 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:39:19.903 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:42:24.248 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:42:29.926 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:42:30.315 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:44:14.246 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:44:17.440 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:44:17.608 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+16:46:24.290 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:46:27.701 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:46:28.146 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+17:39:54.119 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:39:59.663 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:40:00.320 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+17:41:52.806 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:42:05.804 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:42:07.513 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+17:42:44.285 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:42:50.206 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:42:51.385 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+17:45:17.701 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:45:20.625 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:45:21.121 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+17:46:19.726 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:46:24.620 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:46:26.870 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+17:58:05.862 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:58:10.114 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:58:10.615 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+18:25:24.944 [main] INFO  Academy.base - Test execution started
+18:48:53.966 [main] INFO  Academy.base - Test execution started
+18:59:46.689 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+18:59:46.689 [TestNG-tests-2] INFO  Academy.base - Test execution started
+19:04:08.625 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:05:02.513 [TestNG-tests-2] INFO  Academy.base - Test execution started
+19:05:02.513 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:05:08.738 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:05:09.197 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+19:06:37.259 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:06:37.259 [TestNG-tests-2] INFO  Academy.base - Test execution started
+19:06:42.035 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:06:42.756 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+19:57:02.906 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:57:02.906 [TestNG-tests-2] INFO  Academy.base - Test execution started
+19:57:07.909 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:57:08.511 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+22:13:32.151 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+22:13:32.628 [TestNG-tests-2] INFO  Academy.base - Test execution started
+22:13:46.928 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+22:13:48.537 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title not matched
+22:36:13.484 [TestNG-tests-2] INFO  Academy.base - Test execution started
+22:36:14.203 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+22:36:24.696 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+22:36:27.102 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+22:41:54.107 [TestNG-tests-2] INFO  Academy.base - Test execution started
+22:41:54.225 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+22:42:17.375 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+22:42:17.861 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+22:45:15.468 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+22:45:15.468 [TestNG-tests-2] INFO  Academy.base - Test execution started
+22:45:31.914 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+22:45:32.911 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+22:51:52.252 [TestNG-tests-2] INFO  Academy.base - Test execution started
+22:51:52.252 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+22:52:08.687 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+22:52:11.653 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+22:59:39.749 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+22:59:52.134 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+23:00:55.139 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+23:01:14.913 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+23:02:18.017 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+23:02:35.339 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+23:02:35.766 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+23:04:32.283 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+23:04:40.473 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+23:04:41.318 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+23:06:21.408 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+23:06:27.114 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+23:06:28.072 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+23:07:33.985 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+23:07:43.554 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+23:07:43.921 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+23:09:14.764 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+23:09:22.452 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+23:09:23.038 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+23:19:51.359 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+23:19:59.278 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+23:21:46.952 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+23:21:56.458 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+12:25:54.425 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+12:26:01.004 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+12:26:01.429 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+12:31:25.300 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+12:31:44.623 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+12:55:10.984 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+12:55:17.101 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+12:55:18.510 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+14:15:32.011 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+14:15:38.337 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+14:15:40.572 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+15:16:47.954 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:16:58.797 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:17:00.220 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+15:18:43.753 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:18:53.638 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:18:54.384 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+15:20:43.148 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:20:49.479 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:20:50.199 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+15:21:48.652 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:21:56.600 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:21:57.803 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+15:24:35.644 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:24:55.128 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:24:57.464 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+15:25:50.547 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:25:57.246 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:25:57.863 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+15:32:31.586 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:32:38.521 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+15:32:39.051 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+15:42:30.522 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+15:42:42.840 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:44:47.371 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:44:56.732 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:44:57.490 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+16:46:12.689 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:46:24.147 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:46:25.659 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+16:47:16.526 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:47:25.790 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:47:26.359 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+16:53:27.326 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:53:37.940 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:53:39.466 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+16:54:32.538 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:54:40.459 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:54:42.594 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+16:57:11.912 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:58:10.993 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+16:58:20.594 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+16:58:21.541 [main] INFO  Academy.ValidationNavigationHeader - Matched
+16:58:21.698 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+17:03:07.412 [TestNG-tests-2] INFO  Academy.base - Test execution started
+17:03:07.766 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:03:21.409 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:03:23.495 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+17:03:23.740 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+17:11:36.392 [main] INFO  Academy.base - Test execution started
+17:15:30.138 [TestNG-tests-2] INFO  Academy.base - Test execution started
+17:15:30.634 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:15:37.426 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:15:41.269 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+17:15:42.010 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+17:16:57.671 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:16:57.729 [TestNG-tests-2] INFO  Academy.base - Test execution started
+17:17:03.553 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:17:06.859 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+17:17:06.980 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+17:18:28.092 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:18:28.092 [TestNG-tests-2] INFO  Academy.base - Test execution started
+17:18:33.491 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:18:34.025 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+17:18:34.117 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+17:19:55.346 [TestNG-tests-2] INFO  Academy.base - Test execution started
+17:19:55.830 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:20:00.951 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:20:01.220 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+17:20:01.332 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+17:25:22.935 [TestNG-tests-2] INFO  Academy.base - Test execution started
+17:25:23.294 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+17:25:30.382 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+17:25:32.642 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+17:25:32.949 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+17:56:58.536 [main] INFO  Academy.base - Test execution started
+17:57:44.641 [main] INFO  Academy.base - Test execution started
+18:09:27.920 [main] INFO  Academy.base - Test execution started
+18:11:56.766 [main] INFO  Academy.base - Test execution started
+18:13:45.320 [main] INFO  Academy.base - Test execution started
+18:19:39.987 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+18:19:44.648 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+18:19:45.748 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+18:20:58.695 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+18:21:05.902 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+18:22:45.420 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+18:22:50.145 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+18:23:51.814 [main] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+18:23:59.145 [main] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+18:24:00.093 [main] INFO  Academy.ValidationNavigationHeader - Matched
+18:24:00.363 [main] INFO  Academy.ValidationNavigationHeader - Title matched
+20:55:37.465 [TestNG-tests-2] INFO  Academy.base - Test execution started
+20:55:37.467 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+20:55:47.955 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+20:55:49.363 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+20:55:50.409 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+21:47:43.149 [TestNG-tests-2] INFO  Academy.base - Test execution started
+21:47:43.149 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+21:47:52.494 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+21:47:53.749 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+21:47:53.936 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+18:38:32.283 [TestNG-tests-2] INFO  Academy.base - Test execution started
+18:38:33.378 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+18:38:38.798 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+18:38:42.352 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+18:38:43.931 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+18:50:06.961 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+18:50:07.718 [TestNG-tests-2] INFO  Academy.base - Test execution started
+18:50:13.483 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+18:50:21.668 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+18:50:22.988 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+18:52:28.523 [TestNG-tests-2] INFO  Academy.base - Test execution started
+18:53:19.722 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+18:53:24.739 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+18:53:28.421 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+18:53:29.852 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+19:28:51.888 [TestNG-tests-2] INFO  Academy.base - Test execution started
+19:28:52.457 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:28:58.653 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:29:07.120 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+19:29:09.322 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+19:31:33.286 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:31:33.979 [TestNG-tests-2] INFO  Academy.base - Test execution started
+19:31:43.134 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:31:48.240 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+19:31:50.445 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+20:45:14.698 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+20:45:15.686 [TestNG-tests-2] INFO  Academy.base - Test execution started
+20:45:20.583 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+20:45:29.809 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+20:45:32.798 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+20:46:54.155 [main] INFO  Academy.base - Test execution started
+20:50:06.095 [TestNG-tests-2] INFO  Academy.base - Test execution started
+20:50:06.134 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+20:50:09.944 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+20:50:11.414 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+20:50:12.443 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+20:53:09.205 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+20:53:09.215 [TestNG-tests-2] INFO  Academy.base - Test execution started
+20:53:12.956 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+20:53:14.684 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+20:53:14.947 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+18:46:03.782 [main] INFO  Academy.base - Test execution started
+22:00:37.833 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+22:00:40.983 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+22:00:44.360 [TestNG-tests-2] INFO  Academy.base - Test execution started
+22:00:45.345 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+22:00:45.555 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+13:44:36.533 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+13:44:41.384 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+13:44:42.906 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+13:44:42.983 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+13:45:08.055 [TestNG-tests-2] INFO  Academy.base - Test execution started
+19:31:42.764 [TestNG-tests-2] INFO  Academy.base - Test execution started
+19:32:34.299 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+19:32:38.880 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+19:32:40.043 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+19:32:40.179 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched
+20:55:37.886 [TestNG-tests-2] INFO  Academy.base - Test execution started
+20:55:44.020 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Invoked Successfully
+20:55:49.193 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Navigate to Homepage
+20:55:50.541 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Matched
+20:55:50.645 [TestNG-tests-1] INFO  Academy.ValidationNavigationHeader - Title matched

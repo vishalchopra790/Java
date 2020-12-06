@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Automatio Test]">
+  <test parallel="none" name="Smoke Testcases(failed)" preserve-order="true">
+    <classes>
+      <class name="testngFiles.Vegetable">
+        <methods>
+          <include name="Demo"/>
+        </methods>
+      </class> <!-- testngFiles.Vegetable -->
+    </classes>
+  </test> <!-- Smoke Testcases(failed) -->
+</suite> <!-- Failed suite [Automatio Test] -->

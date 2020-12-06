@@ -1,0 +1,71 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.ProtocolHandshake;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.Assert;
+public class Cleartrip {
+
+	public static void main(String[] args) throws InterruptedException {
+		// TODO Auto-generated method stub
+    //invoke .exe file
+		System.setProperty("webdriver.chrome.driver","C:\\XL_Apps\\eclipse\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://www.cleartrip.com");
+		driver.manage().window().maximize();
+		System.out.println(driver.getTitle());
+		//from code 
+		driver.findElement(By.cssSelector("#FromTag")).click();
+		driver.findElement(By.xpath("//input[@id='FromTag']")).sendKeys("mum");
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//input[@id='FromTag']")).sendKeys(Keys.ARROW_DOWN);
+		driver.findElement(By.xpath("//input[@id='FromTag']")).sendKeys(Keys.ENTER);
+		
+		//to code
+		//driver.findElement(By.id("ToTag")).sendKeys("maa");
+		//driver.findElement(By.id("ToTag")).click();
+		
+		//selecting depart  date 
+		/*
+		driver.findElement(By.cssSelector("[id=\'DepartDate\']")).click();
+		driver.findElement(By.cssSelector(".ui-state-default.ui-state-highlight.ui-state-active")).click();
+		Thread.sleep(1000);
+		
+		//Passengers adult count 
+		driver.findElement(By.name("adults")).click();
+		Select a=new Select(driver.findElement(By.name("adults")));
+		a.selectByIndex(3);
+		driver.findElement(By.name("adults")).click();
+		System.out.println(driver.findElement(By.name("adults")).getAttribute("value" )+"Adults");
+       
+		//Passenger child count 
+		driver.findElement(By.xpath("//*[@name='childs']")).click();
+		Select c=new Select(driver.findElement(By.xpath("//*[@name='childs']")));
+		c.selectByValue("2");
+		driver.findElement(By.xpath("//*[@name='childs']")).click();
+		System.out.println(driver.findElement(By.xpath("//*[@name='childs']")).getAttribute("value")+"Childrens");
+		
+		driver.findElement(By.xpath("//a[@id='MoreOptionsLink']")).click();
+		
+		driver.findElement(By.xpath("//input[@id='AirlineAutocomplete']")).sendKeys("Indigo");
+		//Search button 
+		driver.findElement(By.id("SearchBtn")).click();
+		//Print error
+		System.out.println(driver.findElement(By.id("homeErrorMessage")).getText());
+		Thread.sleep(3000);
+		driver.close();
+		*/
+		
+		
+		
+		
+	   
+		
+		
+		
+		
+		
+		
+	}
+}
